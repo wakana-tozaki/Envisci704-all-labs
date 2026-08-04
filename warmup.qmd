@@ -52,7 +52,7 @@ plt.show()
 import matplotlib.pyplot as plt
 
 concentration = 100.0
-decay_rate = 0.1
+decay_rate = 0.01
 dt = 1.0
 history = [concentration]
 
