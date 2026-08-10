@@ -66,3 +66,4 @@ plt.ylabel("Concentration (mg/L)")
 plt.title("Tracer decay in a lake")
 plt.show()
 ```
+smaller the value, the more linear the line becomes, and the more larger the value, the steeper the slope becomes 
